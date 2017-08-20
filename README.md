@@ -1,2 +1,4 @@
 # hello-world
-Obligatory first repository
+Obligatory initial repository
+
+This is just a sample as I get familiar with GitHub.
